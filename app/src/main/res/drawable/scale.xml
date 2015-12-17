@@ -7,7 +7,7 @@
         android:width="300dp"
         android:height="300dp"/>
 
-    <!--这里控制孤度-->
+    <!--这里控制孤度的-->
     <corners android:radius="100dp"/>
 
 </shape>
