@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorToolbar">#2D5D82</color>
+    <color name="colorToolbarDark">#1d4c71</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <color name="accout_background">#2D5D82</color>
+<color name="white">@android:color/white</color>
+    <color name="gray">#B8B8B8</color>
+    <color name="green">#00C456</color>
+    <color name="green_press">@color/green</color>
+    <color name="green_default">#7e00c456</color>
+    <color name="table_color">#00ACDB</color>
+</resources>

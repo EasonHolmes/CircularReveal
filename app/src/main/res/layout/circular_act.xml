@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--这里使用一个布局包裹以做出边界的效果-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/accout_background_height">
+
+        <View
+            android:id="@+id/animation_layout"
+            android:layout_width="1dp"
+            android:layout_height="1dp"
+            android:background="@drawable/scale"/>
+    </LinearLayout>
+
+    <android.support.design.widget.CoordinatorLayout
+        android:id="@+id/root_layout"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+
+        <android.support.design.widget.AppBarLayout
+            android:id="@+id/appBarLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                app:layout_scrollFlags="scroll|enterAlways"
+                >
+
+                <include layout="@layout/inclue_accout_content"/>
+
+                <include layout="@layout/toolbar"/>
+
+
+            </FrameLayout>
+
+            <android.support.design.widget.TabLayout
+                android:id="@+id/mTable_layout"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_gravity="bottom"
+                android:background="@color/white"
+                app:tabBackground="@color/table_color"
+                app:tabGravity="fill"
+                app:tabIndicatorColor="@color/green"
+                app:tabIndicatorHeight="4dp"
+                app:tabMode="fixed"
+                />
+        </android.support.design.widget.AppBarLayout>
+
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewPager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
+
+
+    </android.support.design.widget.CoordinatorLayout>
+</RelativeLayout>
