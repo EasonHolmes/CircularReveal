@@ -1,2 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/cuiyang/Documents/work/workspace/Private/AnimationLibrary/CircularReveal/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/AnimationLibrary/CircularReveal/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_3c75fbc44021adbd139cab519be4102123b71007.jar" />
+    </item>
+    <item
+        jar="/Users/cuiyang/Documents/work/workspace/Private/AnimationLibrary/CircularReveal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/AnimationLibrary/CircularReveal/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_4803c8ee1d2a31df226bb8af90a29ce1d59497cc.jar" />
+    </item>
+    <item
+        jar="/Users/cuiyang/Documents/work/sdk/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/AnimationLibrary/CircularReveal/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_3a6c272b2d79211dd572f6a1b2cc12ae8f72fb49.jar" />
+    </item>
+    <item
+        jar="/Users/cuiyang/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.0/7ff0e000d1e27e356567f56c92af3b8ab912636f/picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/AnimationLibrary/CircularReveal/app/build/intermediates/pre-dexed/debug/picasso-2.5.0_423a37eec7dd4993e9ddb4789648094f392907ed.jar" />
+    </item>
+    <item
+        jar="/Users/cuiyang/Documents/work/workspace/Private/AnimationLibrary/CircularReveal/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/AnimationLibrary/CircularReveal/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_6299e64cabc8fb734e3d53bab597410495ac96ca.jar" />
+    </item>
+    <item
+        jar="/Users/cuiyang/Documents/work/workspace/Private/AnimationLibrary/CircularReveal/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/AnimationLibrary/CircularReveal/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.1.1_673d6f0f653131c6c19d478bc55eab1524594c1d.jar" />
+    </item>
+    <item
+        jar="/Users/cuiyang/Documents/work/workspace/Private/AnimationLibrary/CircularReveal/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/AnimationLibrary/CircularReveal/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_2f3632794d090b32b7d91c8f82f9f7baee02c7ec.jar" />
+    </item>
+    <item
+        jar="/Users/cuiyang/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/AnimationLibrary/CircularReveal/app/build/intermediates/pre-dexed/debug/butterknife-6.1.0_ac724ae799341cb7053d90ad50ac7bb6bb8bd1e5.jar" />
+    </item>
+    <item
+        jar="/Users/cuiyang/Documents/work/workspace/Private/AnimationLibrary/CircularReveal/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/cuiyang/Documents/work/workspace/Private/AnimationLibrary/CircularReveal/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_466e16876d456912b14d82cd99de35ce466df9fd.jar" />
+    </item>
+
+</items>

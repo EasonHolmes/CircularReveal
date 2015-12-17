@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
        android:useLevel="false">
-    <!--oval是 shape的属性之一，意思是 椭圆-->
-    <!--solid 是shape 的孩子之一，作用是实现填充-->
     <solid android:color="@color/colorToolbar"/>
-    <!--size 也是shape 的孩子之一，作用是实现 长宽限制-->
-
 
     <size
         android:width="300dp"
         android:height="300dp"/>
 
-    <corners android:radius="60dp"/>
+    <!--这里控制孤度-->
+    <corners android:radius="100dp"/>
 
 </shape>
