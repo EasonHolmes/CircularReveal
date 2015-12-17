@@ -1,0 +1,2 @@
+# CircularReveal
+createCircularReveal方法的另一种实现方法。模仿InstaMaterial个人中心，效果做了小修改
